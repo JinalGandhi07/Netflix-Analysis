@@ -1,4 +1,4 @@
 # Netflix-Analysis
 Netflix Movies and TV Shows Data Analysis Using SQL
 
-![Netflix Logo]{}
+![Netflix Logo](logo.png)
